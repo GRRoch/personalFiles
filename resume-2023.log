@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.21)  12 FEB 2023 11:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.21)  12 FEB 2023 11:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -629,25 +629,20 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
 (Font)              scaled to size 6.0pt on input line 202.
 LaTeX Font Info:    Trying to load font information for TS1+SourceSansPro-TLF o
-n input line 249.
+n input line 250.
 
 (/usr/share/texmf-dist/tex/latex/sourcesanspro/TS1SourceSansPro-TLF.fd
 File: TS1SourceSansPro-TLF.fd 2020/01/19 (autoinst) Font definitions for TS1/So
 urceSansPro-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 249.
+(Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 250.
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 249.
+(Font)              scaled to size 10.0pt on input line 250.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 257.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 258.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 7.0pt on input line 257.
-
-Underfull \hbox (badness 10000) in alignment at lines 257--257
-[][][] 
- []
-
+(Font)              scaled to size 7.0pt on input line 258.
 
 Underfull \hbox (badness 10000) in alignment at lines 258--258
 [][][] 
@@ -655,6 +650,11 @@ Underfull \hbox (badness 10000) in alignment at lines 258--258
 
 
 Underfull \hbox (badness 10000) in alignment at lines 259--259
+[][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 260--260
 [][][] 
  []
 
@@ -670,25 +670,25 @@ pdfTeX warning (ext4): destination with the same identifier (name{cite.LR}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.263 \end{document}
+l.264 \end{document}
                     
 pdfTeX warning (ext4): destination with the same identifier (name{cite.L-thesis
 }) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.263 \end{document}
+l.264 \end{document}
                     
 pdfTeX warning (ext4): destination with the same identifier (name{cite.LP}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.263 \end{document}
+l.264 \end{document}
                     
 pdfTeX warning (ext4): destination with the same identifier (name{cite.LH}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.263 \end{document}
+l.264 \end{document}
                     ] (./resume-2023.aux)
 Package rerunfilecheck Info: File `resume-2023.out' has not changed.
 (rerunfilecheck)             Checksum: E29088EA7B2F6F324E76805C058844ED;546.
@@ -696,7 +696,7 @@ Package rerunfilecheck Info: File `resume-2023.out' has not changed.
 Here is how much of TeX's memory you used:
  11199 strings out of 478238
  179139 string characters out of 5850455
- 500753 words of memory out of 5000000
+ 501753 words of memory out of 5000000
  29260 multiletter control sequences out of 15000+600000
  579011 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -710,7 +710,7 @@ sourcesanspro/SourceSansPro-Regular.pfb></usr/share/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
 r/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on resume-2023.pdf (1 page, 209292 bytes).
+Output written on resume-2023.pdf (1 page, 209313 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  65 compressed objects within 1 object stream
